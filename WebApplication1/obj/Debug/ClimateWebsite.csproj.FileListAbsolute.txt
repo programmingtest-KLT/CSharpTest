@@ -1,0 +1,16 @@
+c:\users\brian.layman\documents\visual studio 2013\Projects\DevelopmentDataAccess\WebApplication1\bin\ClimateWebsite.dll.config
+c:\users\brian.layman\documents\visual studio 2013\Projects\DevelopmentDataAccess\WebApplication1\bin\ClimateWebsite.dll
+c:\users\brian.layman\documents\visual studio 2013\Projects\DevelopmentDataAccess\WebApplication1\bin\ClimateWebsite.pdb
+c:\users\brian.layman\documents\visual studio 2013\Projects\DevelopmentDataAccess\WebApplication1\bin\DevelopmentDataAccess.dll
+c:\users\brian.layman\documents\visual studio 2013\Projects\DevelopmentDataAccess\WebApplication1\bin\DevelopmentDataAccess.pdb
+c:\users\brian.layman\documents\visual studio 2013\Projects\DevelopmentDataAccess\WebApplication1\obj\Debug\ClimateWebsite.csprojResolveAssemblyReference.cache
+c:\users\brian.layman\documents\visual studio 2013\Projects\DevelopmentDataAccess\WebApplication1\obj\Debug\ClimateWebsite.dll
+c:\users\brian.layman\documents\visual studio 2013\Projects\DevelopmentDataAccess\WebApplication1\obj\Debug\ClimateWebsite.pdb
+C:\Users\brian.layman\Documents\Visual Studio 2013\Projects\DevelopmentDataAccess\CSharpTest\WebApplication1\bin\ClimateWebsite.dll.config
+C:\Users\brian.layman\Documents\Visual Studio 2013\Projects\DevelopmentDataAccess\CSharpTest\WebApplication1\bin\ClimateWebsite.dll
+C:\Users\brian.layman\Documents\Visual Studio 2013\Projects\DevelopmentDataAccess\CSharpTest\WebApplication1\bin\ClimateWebsite.pdb
+C:\Users\brian.layman\Documents\Visual Studio 2013\Projects\DevelopmentDataAccess\CSharpTest\WebApplication1\bin\DevelopmentDataAccess.dll
+C:\Users\brian.layman\Documents\Visual Studio 2013\Projects\DevelopmentDataAccess\CSharpTest\WebApplication1\bin\DevelopmentDataAccess.pdb
+C:\Users\brian.layman\Documents\Visual Studio 2013\Projects\DevelopmentDataAccess\CSharpTest\WebApplication1\obj\Debug\ClimateWebsite.dll
+C:\Users\brian.layman\Documents\Visual Studio 2013\Projects\DevelopmentDataAccess\CSharpTest\WebApplication1\obj\Debug\ClimateWebsite.pdb
+C:\Users\brian.layman\Documents\Visual Studio 2013\Projects\DevelopmentDataAccess\CSharpTest\WebApplication1\obj\Debug\ClimateWebsite.csprojResolveAssemblyReference.cache

@@ -1,0 +1,11 @@
+c:\users\brian.layman\documents\visual studio 2013\Projects\DevelopmentDataAccess\DevelopmentDataAccess\bin\Debug\DevelopmentDataAccess.dll
+c:\users\brian.layman\documents\visual studio 2013\Projects\DevelopmentDataAccess\DevelopmentDataAccess\bin\Debug\DevelopmentDataAccess.pdb
+c:\users\brian.layman\documents\visual studio 2013\Projects\DevelopmentDataAccess\DevelopmentDataAccess\obj\Debug\DevelopmentDataAccess.dll
+c:\users\brian.layman\documents\visual studio 2013\Projects\DevelopmentDataAccess\DevelopmentDataAccess\obj\Debug\DevelopmentDataAccess.pdb
+c:\users\brian.layman\documents\visual studio 2013\Projects\DevelopmentDataAccess\DevelopmentDataAccess\bin\Debug\DevelopmentDataAccess.dll.config
+C:\Users\brian.layman\Documents\Visual Studio 2013\Projects\DevelopmentDataAccess\DevelopmentDataAccess\obj\Debug\DevelopmentDataAccess.csprojResolveAssemblyReference.cache
+C:\Users\brian.layman\Documents\Visual Studio 2013\Projects\DevelopmentDataAccess\CSharpTest\DevelopmentDataAccess\bin\Debug\DevelopmentDataAccess.dll.config
+C:\Users\brian.layman\Documents\Visual Studio 2013\Projects\DevelopmentDataAccess\CSharpTest\DevelopmentDataAccess\bin\Debug\DevelopmentDataAccess.dll
+C:\Users\brian.layman\Documents\Visual Studio 2013\Projects\DevelopmentDataAccess\CSharpTest\DevelopmentDataAccess\bin\Debug\DevelopmentDataAccess.pdb
+C:\Users\brian.layman\Documents\Visual Studio 2013\Projects\DevelopmentDataAccess\CSharpTest\DevelopmentDataAccess\obj\Debug\DevelopmentDataAccess.dll
+C:\Users\brian.layman\Documents\Visual Studio 2013\Projects\DevelopmentDataAccess\CSharpTest\DevelopmentDataAccess\obj\Debug\DevelopmentDataAccess.pdb
