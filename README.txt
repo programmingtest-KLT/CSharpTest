@@ -1,4 +1,4 @@
-In this exam, you will create a website that will accomplish the following requirements.  All server-side code must be written in C# and use the .NET framework.  
+In this exam, you will create a website that will accomplish the following requirements.  All server-side code must be written in C# and use the .NET framework.  Your code will be examined for accurate completion, as well as overall style and structure.  
 
 1) Hosts a page at <<your site>>/Weather/FindMyWeather.ascx that will accept a user input of zip code and features a submit button.  Do not worry about page styling, but ensure that this input is numeric and either 5 or 9 digits long when the submit button is clicked.
 	- if the input is invalid display "Not a valid zip code" above the input field
